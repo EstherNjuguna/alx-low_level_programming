@@ -1,3 +1,5 @@
+
+
 #include <stdio.h>
 
 /**
@@ -17,4 +19,4 @@ alpha++;
 putchar('\n');
 
 return (0);
-} 
+}

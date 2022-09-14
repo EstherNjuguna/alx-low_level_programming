@@ -1,12 +1,9 @@
 #include "main.h"
-
 /**
- *  * Decription: main - prints '_putchar' and a new line
- *   *
- *    * Return: 0
- *     *
- *      */
-
+*Decription: main - prints '_putchar' and a new line
+ *
+ *  * Return: 0
+ */
 int main(void)
 {
 		_putchar('_');

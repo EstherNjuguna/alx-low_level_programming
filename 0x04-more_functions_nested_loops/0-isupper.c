@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- *  * _isupper - check the code.
+ *   _isupper - check the code.
  *  @c: character
- *    * Return: Always 0.
+ *   Return: Always 0.
  */
 int _isupper(int c)
 {
@@ -13,4 +13,5 @@ int _isupper(int c)
 	}
 
 	return (0);
+}
 
